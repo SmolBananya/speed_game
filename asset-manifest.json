@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/speed_game/static/css/main.1497d2f2.chunk.css",
+    "main.js": "/speed_game/static/js/main.1b574fe6.chunk.js",
+    "main.js.map": "/speed_game/static/js/main.1b574fe6.chunk.js.map",
+    "runtime~main.js": "/speed_game/static/js/runtime~main.3c5a8f43.js",
+    "runtime~main.js.map": "/speed_game/static/js/runtime~main.3c5a8f43.js.map",
+    "static/js/2.fdf02958.chunk.js": "/speed_game/static/js/2.fdf02958.chunk.js",
+    "static/js/2.fdf02958.chunk.js.map": "/speed_game/static/js/2.fdf02958.chunk.js.map",
+    "index.html": "/speed_game/index.html",
+    "precache-manifest.c2b8d55bf4adeae16f17f861aefa52fb.js": "/speed_game/precache-manifest.c2b8d55bf4adeae16f17f861aefa52fb.js",
+    "service-worker.js": "/speed_game/service-worker.js",
+    "static/css/main.1497d2f2.chunk.css.map": "/speed_game/static/css/main.1497d2f2.chunk.css.map"
+  }
+}
